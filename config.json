@@ -1,0 +1,31 @@
+{
+  
+  "default_prefix": "_",
+    "owners": "899610755362598952",
+    
+
+
+   "guildid": "Your Server Id",
+   "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌",
+ "YOUTUBE_API_KEY": "",
+ "premium": "899610755362598952",
+ "PREFIX": "^^",
+ "mongodb": "",
+ "database": "",
+ "BOT_ID": "839010097585324062",
+ "embedcolor": "BLUE",
+ "EMOJI_ARROW":"🔄",
+ "WELCOME_CHANNEL": "",
+    "QUEUE_LIMIT": 2,
+    "owners": "Your id",
+    "AME_API": "",
+    "COLOR": "00FFFF",
+    "mongourl": ""
+}
+}
